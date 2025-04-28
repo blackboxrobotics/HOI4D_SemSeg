@@ -1,0 +1,3 @@
+Published train1.h5 and test_wolabel_seg.h5 to HF for ease of use on cloud cluster
+
+https://huggingface.co/Shivamkak/HOI4D_SemanticSeg_dataset
